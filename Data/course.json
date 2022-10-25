@@ -1,0 +1,98 @@
+[
+    {
+        "id": "01",
+        "title": "Programming Fundamentals",
+        "thumbnail": "https://i.ibb.co/f87V0dG/programming-languages-1-1024x683.jpg",
+        "desc": "This course solely focuses on programming fundamentals. There are many people who are from Non-CS background but have the indomitable desire to learn and understand the fundamentals of programming from level zero. Even if you are from CS background but do not have solid understanding on programming fundamentals, this course is specifically designed for you too!",
+        "istructor": {
+            "name": "MD. Rajib Hossain",
+            "about": "CSE Engineer From IST",
+            "image": "https://lh3.googleusercontent.com/a-/ACNPEu_Y6Holl04UFFOPuCiYj2CS_Twx2Wq9v6s3HIoe=s64-p-k-rw-no"
+        },
+        "fee": "200",
+        "duration": "2 Months",
+        "level": "Beginner",
+        "rating": "4.2",
+        "enrolled": "50"
+    },
+    {
+        "id": "02",
+        "title": "Professional Programming with C#",
+        "thumbnail": "https://i.ibb.co/JKqgYG7/csharp-api.webp",
+        "desc": "In this course we will learn all the things that we need to have a good understanding of to make ourselves as a good quality software developer, through lots of practice with C# programming language. Also learn almost all advanced topics of C#.",
+        "istructor": {
+            "name": "MD. Rafiqul Islam",
+            "about": "CSE Engineer From IST",
+            "image": "https://lh3.googleusercontent.com/a-/ACNPEu_Y6Holl04UFFOPuCiYj2CS_Twx2Wq9v6s3HIoe=s64-p-k-rw-no"
+        },
+        "fee": "400",
+        "duration": "3 Months",
+        "level": "Intermidiate",
+        "rating": "4.5",
+        "enrolled": "200"
+    },
+    {
+        "id": "03",
+        "title": "Learn PHP Step by Step ",
+        "thumbnail": "https://i.ibb.co/z8MnrkT/meta-image.png",
+        "desc": "The course is designed to learn programming using PHP programming language from scratch. PHP programming language will be taught here. Emphasis will be placed on building coding skills. This is not a web development course. The framework will not be taught here. To get admission in the course, you have to pass the admission test first. Just enroll to participate in the entrance exam. If you pass you have to pay. Course highlight: Programming will be taught step by step from the very beginning. The course is designed keeping in mind the common mistakes made when learning new programming. There will be lots of tests and assignments. Proper guidelines will be given to become a good programmer by practicing. Every topic in the syllabus will be discussed seriously.",
+        "istructor": {
+            "name": "MD. Morsalin Piash",
+            "about": "CSE Engineer From Daffodil",
+            "image": "https://lh3.googleusercontent.com/a-/ACNPEu_Y6Holl04UFFOPuCiYj2CS_Twx2Wq9v6s3HIoe=s64-p-k-rw-no"
+        },
+        "fee": "600",
+        "duration": "8 Months",
+        "level": "Beginner",
+        "rating": "4.7",
+        "enrolled": "900"
+    },
+    {
+        "id": "04",
+        "title": "Professional Programming With Python ",
+        "thumbnail": "https://i.ibb.co/bshH9Sq/7-reasons-why-you-should-learn-python.jpg",
+        "desc": "Professional Programming With Python- course is for those who want to be job ready or to strengthen their CV. This course provides all the python knowledge that someone needs to apply to real-world applications. After this course, students will have their two personal projects and a complete CV and GitHub contributions, increasing their chances of getting a job earlier. Students, who are willing to learn python for programming contests or projects are also requested to join because this course will help them to have a clear concept of the python programming language.",
+        "istructor": {
+            "name": "MD. Mamun Hossain",
+            "about": "CSE Engineer From IST",
+            "image": "https://lh3.googleusercontent.com/a-/ACNPEu_Y6Holl04UFFOPuCiYj2CS_Twx2Wq9v6s3HIoe=s64-p-k-rw-no"
+        },
+        "fee": "500",
+        "duration": "4 Months",
+        "level": "Intermidiate",
+        "rating": "4.3",
+        "enrolled": "100"
+    },
+    {
+        "id": "05",
+        "title": "JavaScript Master Class",
+        "thumbnail": "https://i.ibb.co/4sbzr4j/apa-itu-javascript.png",
+        "desc": "We will journey through JavaScript by learning only concepts you'll see most often on the job. This allows you to cut right to the meat of programming and enable you to become job-ready faster. No more learning outdated concepts for the sake of learning them. We'll practice with the latest syntax and use best practices all the way through. I take a practical approach by teaching you the tools you'll need to build apps and websites effectively. We will start off by learning basic HTML & CSS. Then we'll jump into the JavaScript fundamentals to give you a solid foundation. Quizzes will be provided after every video to be sure you don't miss a beat. Before we jump into the projects section we'll go into the Tools section where I give you the JavaScript tools you'll need to create any app that comes your way. We'll end off by diving into 15+ projects designed to drill in all concepts learned throughout the course. I hope you're ready to finally get this programming language under your belt because you'll leave this course with a wealth of knowledge of JavaScript and 15+ projects to prove you are ready to put your skills to use in the real world. I'll see you in the course.",
+        "istructor": {
+            "name": "MD. Akash",
+            "about": "CSE Engineer From Bangladesh University",
+            "image": "https://lh3.googleusercontent.com/a-/ACNPEu_Y6Holl04UFFOPuCiYj2CS_Twx2Wq9v6s3HIoe=s64-p-k-rw-no"
+        },
+        "fee": "800",
+        "duration": "9 Months",
+        "level": "Intermidiate",
+        "rating": "4.9",
+        "enrolled": "2000"
+    },
+    {
+        "id": "06",
+        "title": "Java Programming: Complete Beginner to Advanced",
+        "thumbnail": "https://i.ibb.co/YDTvns5/oracle-java-e1450723340931.webp",
+        "desc": "Would you like to learn real world programming skills that will help you get your first java programming job?.Java is one of the most popular programming languages used to create Web applications and platforms. It was designed for flexibility, allowing developers to write code that would run on any machine.So it’s your time now to take advantage of a loads of jobs and freelance opportunities that are available for java programmers out there.This course is provided by CodeIn Academy Instructors who are Oracle Certified professionals with many years’ experience in java programming.Once you have gone through this course you will be able to understand Java features very easily because this course covers each topic in details and is focused to break down topics with simplified examples. Each lecture comes with full coding notebooks with which you can practice in your own as well. Therefore, this course is for you! It doesn’t matter if you have never programmed before, or if you already know the basics, if you are a programmer switching languages to Java, or just want to learn more about Java features.So enroll in this course now because its your time to get these highly paid and very on-demand skills.",
+        "istructor": {
+            "name": "MD. Golam Mostafa Shawon",
+            "about": "CSE Engineer From IST",
+            "image": "https://lh3.googleusercontent.com/a-/ACNPEu_Y6Holl04UFFOPuCiYj2CS_Twx2Wq9v6s3HIoe=s64-p-k-rw-no"
+        },
+        "fee": "400",
+        "duration": "3 Months",
+        "level": "Intermidiate",
+        "rating": "4.5",
+        "enrolled": "300"
+    }
+]
